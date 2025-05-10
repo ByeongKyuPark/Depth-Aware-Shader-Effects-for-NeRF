@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="S:\Master\2_CS 445_Computational Photography\Projects\final_project\New folder\room_reconstruction\shader_processor\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\Master\2_CS 445_Computational Photography\Projects\final_project\New folder\room_reconstruction\shader_processor\src\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\Master\2_CS 445_Computational Photography\Projects\final_project\New folder\room_reconstruction\shader_processor\src\texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S:\Master\2_CS 445_Computational Photography\Projects\final_project\New folder\room_reconstruction\shader_processor\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="S:\Master\2_CS 445_Computational Photography\Projects\final_project\New folder\room_reconstruction\shader_processor\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3E7CA7CE-5EA8-3CE6-865E-B39FD99347F0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

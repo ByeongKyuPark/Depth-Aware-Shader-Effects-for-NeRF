@@ -1,0 +1,10 @@
+^S:\MASTER\2_CS 445_COMPUTATIONAL PHOTOGRAPHY\PROJECTS\FINAL_PROJECT\NEW FOLDER\ROOM_RECONSTRUCTION\SHADER_PROCESSOR\BUILD\CMAKEFILES\F8F8522F3C9EDA8C15DF21A87534C6E1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SS:/Master/2_CS 445_Computational Photography/Projects/final_project/New folder/room_reconstruction/shader_processor" "-BS:/Master/2_CS 445_Computational Photography/Projects/final_project/New folder/room_reconstruction/shader_processor/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "S:/Master/2_CS 445_Computational Photography/Projects/final_project/New folder/room_reconstruction/shader_processor/build/NeRF_Shader_Processor.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
