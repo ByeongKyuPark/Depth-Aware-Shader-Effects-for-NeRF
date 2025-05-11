@@ -254,7 +254,7 @@ Our implementation includes the following shader effects:
 
 Our fog effect demonstrates a key advantage of NeRF - access to precise depth information without requiring explicit 3D modeling:
 
-- **Watch the demonstration**: [Fog Effect Demonstration Video](https://youtu.be/GCm1I-JPrPk)
+- **Watch the demonstration**: [Fog Effect Demonstration Video](https://youtu.be/QJwHEvS-z2s)
 
 This effect is significant because:
 
