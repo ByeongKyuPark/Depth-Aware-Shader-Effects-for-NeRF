@@ -6,23 +6,11 @@ This project implements a simplified version of NeRF-W (Neural Radiance Fields i
 
 See my shader effects in action in these video demonstrations:
 
-* **Chair Model with Shader Effects**
+[![Chair Model thumbnail](https://img.youtube.com/vi/DCMf-_8uxYM/hqdefault.jpg)](https://youtu.be/DCMf-_8uxYM)
 
-![Chair Model thumbnail](https://img.youtube.com/vi/DCMf-_8uxYM/hqdefault.jpg)
+[![Hotdog Model thumbnail](https://img.youtube.com/vi/WZiyH85AaJc/hqdefault.jpg)](https://youtu.be/WZiyH85AaJc)
 
-[https://youtu.be/DCMf-\_8uxYM](https://youtu.be/DCMf-_8uxYM)
-
-* **Hotdog Model with Shader Effects**
-
-![Hotdog Model thumbnail](https://img.youtube.com/vi/WZiyH85AaJc/hqdefault.jpg)
-
-[https://youtu.be/WZiyH85AaJc](https://youtu.be/WZiyH85AaJc)
-
-* **Fog Shader Effects**
-
-![Fog Effect thumbnail](https://img.youtube.com/vi/QJwHEvS-z2s/hqdefault.jpg)
-
-[https://youtu.be/QJwHEvS-z2s](https://youtu.be/QJwHEvS-z2s)
+[![Fog Effect thumbnail](https://img.youtube.com/vi/QJwHEvS-z2s/hqdefault.jpg)](https://youtu.be/QJwHEvS-z2s)
 
 
   
