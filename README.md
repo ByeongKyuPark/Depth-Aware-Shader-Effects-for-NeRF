@@ -10,10 +10,8 @@ See my shader effects in action in these video demonstrations:
 
 [![Hotdog Model thumbnail](https://img.youtube.com/vi/WZiyH85AaJc/hqdefault.jpg)](https://youtu.be/WZiyH85AaJc)
 
-[![Fog Effect thumbnail](https://img.youtube.com/vi/QJwHEvS-z2s/hqdefault.jpg)](https://youtu.be/QJwHEvS-z2s)
+[![Fog Effect thumbnail](https://img.youtube.com/vi/d5sd6rLgeck/hqdefault.jpg)](https://youtu.be/d5sd6rLgeck)
 
-
-  
 ## Project Significance & Innovation
 
 This project represents a forward-thinking approach to computational photography by combining neural rendering with traditional graphics techniques:
